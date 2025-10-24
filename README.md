@@ -107,6 +107,7 @@ _4. Cada personaje tiene un contador de "likes" que se incrementa al hacer clic.
 ![Vista previa](assets/img/finalxd.png)
 
 
+
 _Cómo consiguieron mi número beep usted se ha comunicado con el teléfono de Juan Carlos bodoque si él le da dinero este ya no es el teléfono de Juan Carlos bodoque_
 
 ---
