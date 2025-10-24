@@ -11,7 +11,7 @@ _ ¿Sabes qué pasa cuando haces clic en un botón en una página web? ¡Bueno, 
 - Cuando se da clic en “Me gusta” para una de las definiciones se dispara una alarma indicando que te gusto la definición junto con el título de la misma.
 - Cada vez que se le da clic al botón de like de cada definición, este debe aumentar el conteo de likes de cada definición.
 
-![Vista previa del ejercicio](assets/img/ejercicio.png)
+![Vista previa](assets/img/finalxd.png)
 
 
 
