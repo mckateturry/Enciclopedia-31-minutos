@@ -104,7 +104,7 @@ _4. Cada personaje tiene un contador de "likes" que se incrementa al hacer clic.
 
 - Se optó por un alert() como feedback inmediato. En versiones futuras, se puede reemplazar por una animación o persistencia en localStorage.
 
-![Vista previa](assets/img/finalxd.png)
+![Vista previa](assets/img/finalxd - copia.png)
 
 
 _Cómo consiguieron mi número beep usted se ha comunicado con el teléfono de Juan Carlos bodoque si él le da dinero este ya no es el teléfono de Juan Carlos bodoque_
