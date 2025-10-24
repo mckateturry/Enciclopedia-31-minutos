@@ -12,6 +12,8 @@ _ ¿Sabes qué pasa cuando haces clic en un botón en una página web? ¡Bueno, 
 - Cada vez que se le da clic al botón de like de cada definición, este debe aumentar el conteo de likes de cada definición.
 
 ![Vista previa del ejercicio](assets/img/ejercicio.png)
+![Tulio Triviño](assets/img/ejercicio.png)
+
 
 ## Características 🛠️
 
