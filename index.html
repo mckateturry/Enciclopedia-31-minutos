@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="author" content="Katherine Miranda" />
+  <meta name="description" content="Enciclopedia" />
+  <title>Enciclopedia 31 minutos</title>
+  <meta name="keywords" content="card, personajes 31 minutos, Enciclopedia, buscador de personajes "/>
+  <link rel="icon" href="assets/img/logo_31_minutos.png" type="image/png" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Jost&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+  <!-- Navbar -->
+    <nav class="min-navbar">
+      <div class="logo">
+        <img src="assets/img/logo_circle.png" alt="31 Minutos" />
+      </div>
+      <ul class="min-menu">
+        <li><a href="#">Noticias</a></li>
+        <li><a href="#">Enciclopedia</a></li>
+        <li><a href="#">Mediateca</a></li>
+        <li><a href="#">Ocio</a></li>
+        <li><a href="#">Contacto</a></li>
+      </ul>
+    </nav>
+
+  <!-- Buscador y categorías -->
+  <header>
+    <h1>ENCICLOPEDIA</h1>
+    <div class="search-container">
+  <input type="text" id="searchInput" placeholder="Buscar ..." />
+  <select id="filtroCategoria">
+    <option value="">Todas las categorías</option>
+    <option value="Episodios">Episodios</option>
+    <option value="Personajes">Personajes</option>
+    <option value="Canciones">Canciones</option>
+    <option value="Show">Show en Vivo</option>
+    <option value="Discografia">Discografía</option>
+    <option value="libros">Libros</option>
+    <option value="listas">Listas</option>
+    <option value="creditos">Créditos</option>
+  </select>
+  <button id="searchBtn"><img src="assets/img/search.png"> </button>
+</div>
+
+  </header>
+<!-- Card -->
+  <main id="cardContainer">
+    <!-- Las tarjetas se insertan dinámicamente -->
+  </main>
+
+  <!-- Modal -->
+  <div id="modal" class="modal hidden">
+    <div class="modal-content">
+      <span id="closeModal">&times;</span>
+      <h2 id="modalTitle"></h2>
+      <p id="modalDescription"></p>
+    </div>
+  </div>
+
+  <script src="assets/js/script.js"></script>
+</body>
+</html>
